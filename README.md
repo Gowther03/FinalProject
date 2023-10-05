@@ -13,3 +13,21 @@ The purpose of this dental clinic website is to provide a seamless and informati
 
 The project is deployed on Azure Portal using Static Web Apps service.
 # Github Page Link: https://gowther03.github.io/FinalProject/
+
+# Website Preview Pictures:
+
+# 1. Home Page:
+![Screenshot (78)](https://github.com/Gowther03/FinalProject/assets/92570822/b1fbb1ec-0f99-4ad9-a53e-f745cbb89f39)
+
+# 2. Services Page:
+![Screenshot (85)](https://github.com/Gowther03/FinalProject/assets/92570822/db212801-56d7-4f62-862e-d643dde1bc59)
+
+# 3. About Page:
+![Screenshot (79)](https://github.com/Gowther03/FinalProject/assets/92570822/58c15d44-204b-49a3-99e9-1d8fa6e87d5d)
+
+# 4. Contact Page:
+![Screenshot (84)](https://github.com/Gowther03/FinalProject/assets/92570822/e60181c6-b831-45ec-a7be-6092a9b471f3)
+
+
+
+
